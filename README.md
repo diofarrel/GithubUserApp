@@ -1,5 +1,5 @@
 # GithubUserApp
-Github User App - Belajar Fundamental Aplikasi Android
+Github User App - Belajar Fundamental Aplikasi Android di Dicoding Academy
 
 **This submission implements :**
 1. RecyclerView
