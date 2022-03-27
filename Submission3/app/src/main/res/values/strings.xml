@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GithubUserApp</string>
+
+    <string name="user_name">Nama User</string>
+    <string name="user_username">Username</string>
+    <string name="user_followers">Followers</string>
+    <string name="user_following">Following</string>
+    <string name="user_repository">Repository</string>
+    <string name="user_location">Location</string>
+    <string name="user_company">Company</string>
+    <string name="share">Share</string>
+    <string name="search">Type here</string>
+    <string name="setting">Setting</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="content_desc">Landing Page Icon Search</string>
+    <string name="fav_desc">Landing Page Favorite Activity</string>
+    <string name="empty_placeholder">Search first to show the list of User</string>
+    <string name="empty_placeholder_fav">There is no favorite user</string>
+    <string name="notfound">User tidak ditemukan!</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorite">Favorite</string>
+</resources>
