@@ -23,3 +23,9 @@ Github User App - Belajar Fundamental Aplikasi Android
 2. Github User API
 3. List Followers and Following
 4. Search View
+
+## Submission 3
+
+**New Features :**
+1. Favorite Activity using Room Database
+2. Theme Preferences Setting using DataStore
